@@ -1,0 +1,63 @@
+p {
+
+    color: rgba(255, 0, 0, 0.849)
+}
+
+h1 {
+
+    border: solid
+}
+
+h3 {
+
+    color: rgb(253, 0, 0)
+}
+
+h3 {
+
+    border: solid
+}
+
+
+
+
+
+h1{
+
+
+color: green
+
+
+}
+
+.head{
+
+display: flex;
+justify-content: flex-end;
+}
+
+.grid{
+
+background-color: black;
+color: white
+}
+
+h2{
+
+background-color: black
+
+}
+
+.step1{
+
+color: red;
+border: solid;
+
+}
+
+.step2{
+
+border:solid;
+color: red
+
+}
